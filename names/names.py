@@ -84,7 +84,7 @@ class BinarySearchTree:
 # structures, but you may not import any additional libraries that you did not write yourself.
 
 #current complexity is O(n^2)
-# to turn into O(logn), utilize the Binary Search Tree class. 
+# to turn into O(nlogn), utilize the Binary Search Tree class. 
 
 
 if __name__ == "__main__":
